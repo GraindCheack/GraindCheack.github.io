@@ -1,15 +1,14 @@
 # About me
 
-You can use the [editor on GitHub](https://github.com/GraindCheack/GraindCheack.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I'm a student of the second year of the "Minsk Radio Engineering College". My speciality is the "Information Technology Software" of the department of computer technology. I'm hardworking person. Everyday I improve my skills and solve interesting tasks in different programming languages as JS, Delphi and C#.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Interests:
 
-### Markdown
+- reading;
+- taking part in sport's events and creative live of college;
+- writting;
+- game development;
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
