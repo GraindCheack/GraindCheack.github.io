@@ -4,10 +4,10 @@ I'm a student of the second year of the "Minsk Radio Engineering College". My sp
 
 # Interests:
 
-- reading;
-- taking part in sport's events and creative live of college;
-- writting;
-- game development;
+- _reading;_
+- _taking part in sport's events and creative live of college;_
+- _writting;_
+- _game development;_
 
 
 # Header 1
