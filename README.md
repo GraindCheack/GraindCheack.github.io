@@ -10,6 +10,7 @@ I'm a student of the second year of the "Minsk Radio Engineering College". My sp
 - _game development;_
 
 # Tasks:
-- _https://github.com/GraindCheack/PadawansTask1.git;_
-- _https://github.com/GraindCheack/PadawansTask2.git;_
-- _https://github.com/GraindCheack/PadawansTask3.git;_
+- _Task 1: https://github.com/GraindCheack/PadawansTask1.git Date: 12.02.2019;_
+- _Task 2: https://github.com/GraindCheack/PadawansTask2.git Date: 13.02.2019;_
+- _Task 3: https://github.com/GraindCheack/PadawansTask3.git Date: 14.02.2019;_
+- _Task 4: https://github.com/GraindCheack/PadawansTask4.git Date: 14.02.2019;_
