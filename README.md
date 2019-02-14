@@ -12,3 +12,4 @@ I'm a student of the second year of the "Minsk Radio Engineering College". My sp
 # Tasks:
 - _https://github.com/GraindCheack/PadawansTask1.git;_
 - _https://github.com/GraindCheack/PadawansTask2.git;_
+- _https://github.com/GraindCheack/PadawansTask3.git;_
