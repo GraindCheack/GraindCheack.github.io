@@ -21,3 +21,5 @@ I'm a student of the second year of the "Minsk Radio Engineering College". My sp
 - _Task 9: https://github.com/GraindCheack/PadawansTask9 Date: 24.02.2019;_
 - _Task 10: https://github.com/GraindCheack/PadawansTask10 Date: 24.02.2019;_
 - _Task 11: https://github.com/GraindCheack/PadawansTask11 Date: 24.02.2019;_
+- _Task 12: https://github.com/GraindCheack/PadawansTask12 Date: 25.02.2019;_
+
