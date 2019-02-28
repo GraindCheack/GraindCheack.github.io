@@ -25,4 +25,5 @@ I'm a student of the second year of the "Minsk Radio Engineering College". My sp
 - _Task 13: https://github.com/GraindCheack/PadawansTask13 Date: 26.02.2019;_
 - _Task 15: https://github.com/GraindCheack/PadawansTask15 Date: 28.02.2019;_
 
-# Link to profile in codewars: _https://www.codewars.com/users/GraindCheack_
+# Link to profile in codewars: 
+_https://www.codewars.com/users/GraindCheack_
