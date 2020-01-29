@@ -1,6 +1,5 @@
 # Contacts
-+375 (44) 563-73-33
-graindcheack@gmail.com
++375 (44) 563-73-33 graindcheack@gmail.com
 
 # About me
 
