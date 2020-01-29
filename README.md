@@ -6,13 +6,6 @@ graindcheack@gmail.com
 
 I'm a student of the third year of the BSUIR Affiliate "Minsk Radioengineering College". My speciality is the "Information Technology Software" of the department of computer technology. I'm hardworking person. I have been practicing in different programming languages as Delphi, C# and Python during college studying.
 
-# Interests:
-
-- _reading;_
-- _taking part in sport's events and creative live of college;_
-- _writing;_
-- _game development;_
-
 # Skills:
 
 - _Python_
