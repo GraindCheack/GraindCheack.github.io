@@ -14,6 +14,7 @@ I'm a student of the third year of the BSUIR Affiliate "Minsk Radioengineering C
 - _Delphi_
 
 # Education
+
 “Software of mathematical information processing” qualification – a technician programmer BSUIR affiliate "Minsk radioengineering college" | 2017 - 2021
 
 Introduction to python training at EPAM RD laboratory EPAM systems inc. | 2019-07-23 - 2019-08-15
