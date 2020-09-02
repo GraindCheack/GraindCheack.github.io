@@ -23,6 +23,7 @@ Introduction to python training at EPAM RD laboratory EPAM systems inc. | 2019-0
 
 # Project links:
 
+- _https://github.com/GraindCheack/BookShop_
 - _https://github.com/GraindCheack/final-practical-task_
 - _https://github.com/GraindCheack/PythonHomework_
 - _https://github.com/GraindCheack/Coursework_
