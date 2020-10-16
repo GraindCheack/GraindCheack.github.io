@@ -7,8 +7,10 @@ I'm a student of the third year of the BSUIR Affiliate "Minsk Radioengineering C
 
 # Skills:
 
-- _Python_
 - _HTML_, _CSS_, _JS_, _Bootstrap_
+- _React_
+- _Angular (basics)_
+- _Python_
 - _SQL_, _PostgreSQL_
 - _C#_
 - _Delphi_
@@ -24,6 +26,7 @@ Introduction to python training at EPAM RD laboratory EPAM systems inc. | 2019-0
 # Project links:
 
 - _https://github.com/GraindCheack/BookShop_
+- _https://github.com/GraindCheack/scandiweb-task_
 - _https://github.com/GraindCheack/final-practical-task_
 - _https://github.com/GraindCheack/PythonHomework_
 - _https://github.com/GraindCheack/Coursework_
